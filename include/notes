@@ -1,0 +1,21 @@
+
+
+
+    I feel like I'm making progress all of a sudden.
+
+    I successfully installed OpenGL and got a window to work. I faffed around for a few hours, but
+    eventually I got it to generate a quad and render pixel data onto the quad. At this point, I
+    have reached the graphics version of "Hello World", which is pretty significant honestly. I'm
+    doing pretty well.
+
+    I found a nice tutorial for using compute shaders to make a quick raytracer. I'll do that and
+    then try and abstract it out as much as possible. I'm a bit shot for today, but my project for
+    tomorrow is to try and get that to work in the GPU — I should be able to get some ridiculous FPS.
+
+    Then after that, my goal is to get a moving camera system going, once again using the GPU. And
+    finally, I just have to figure out how planetary physics work (lmao).
+
+    This project has been a fuckin doozy, but I'm feeling alright about it all of a sudden. I'll
+    give it a rest for tonight, and then I'll pick it up tomorrow with a GPU-powered raytracer.
+
+    Alright it's lit.
