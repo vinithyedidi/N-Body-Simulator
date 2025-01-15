@@ -1,5 +1,5 @@
-#ifndef PRIMITIVE_H
-#define PRIMITIVE_H
+#ifndef SHAPE_H
+#define SHAPE_H
 
 class Shape {
 public:
@@ -9,4 +9,4 @@ public:
     vec3 pos;
 };
 
-#endif //PRIMITIVE_H
+#endif //SHAPE_H
