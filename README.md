@@ -22,7 +22,7 @@ To do so, we now have a formula for $\vec{a}^{\}$, which is the second derivativ
 
 ## Collision Mechanics
 
-We now analyze sphere-sphere collision mechanics. In 1D, we assume conservation of momentum, $m_1v_1 + m_2v_2 = m_1v_1' + m_2v_2'$ where $v_i'$ is the velocity of sphere $i$ calculated in the next frame. We also assume conservation of kinetic energy, or $\frac{1}{2}m_1v_1^2 + \frac{1}{2}m_2v_2^2 = \frac{1}{2}m_1v_1'^2 + \frac{1}{2}m_2v_2^2$. 
+We now analyze sphere-sphere collision mechanics. In 1D, we assume conservation of momentum, $m_1v_1 + m_2v_2 = m_1v_1' + m_2v_2'$ where $v_i'$ is the velocity of sphere $i$ calculated in the next frame. We also assume conservation of kinetic energy, or $\frac{1}{2}m_1v_1^2 + \frac{1}{2}m_2v_2^2 = \frac{1}{2}m_1v_1'^2 + \frac{1}{2}m_2v_2'^2$. 
 
 We make the same assumptions in $N$ spatial dimensions — conservation of momentum implies that $\vec{J_1}^{\} = -\vec{J_2}^{\}$ where $\vec{J_i}^{\} = \lambda \vec{\hat{n}}^{\}$ for $J_i$ impulse, some $\lambda$ and $\vec{\hat{n}}^{\} = \Delta\vec{x}^{\}$ normalized. We then arrive at $\vec{v_i'}^{\} = \vec{v_i}^{\} + \frac{\lambda}{m_i} \vec{\hat{n}}^{\}$. 
 
