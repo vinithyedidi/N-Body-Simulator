@@ -1,6 +1,8 @@
 # N Body Simulator
 
-This is a first person simulation engine with a moving camera that renders spheres in space that affect each other through the mechanics of gravity and collisions. There are multiple preloaded simulations stored in the enum "Scenarios" that can be inputted in the main method, such as a solar system, twin stars, or $N$ randomly generated bodies. The bodies spawn in space with their respective initial conditions, and then the simulation runs and the spheres move around according to their mechanics.
+This is a first person simulation engine with a moving camera that renders spheres in space that affect each other through the mechanics of gravity and collisions. There are multiple preloaded simulations stored in the enum "Scenarios" that can be inputted in the main method, such as a solar system, twin stars, or $N$ randomly generated bodies. The bodies spawn in space with their respective initial conditions, and then the simulation runs and the spheres move around according to their mechanics. 
+
+See "images" to see some screenshots of the simulation. You can also download it, and link GLFW, GLM, and GLAD. If you copy the CMakeLists.txt from this repo and adjust the filenames in the main function, it should work.
 
 ## The Rendering
 
